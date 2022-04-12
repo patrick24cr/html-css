@@ -1,1 +1,2 @@
-console.log("Indian red background");
+// SNEAK PEEK
+// document.querySelector('article').innerHTML = 'From JS';
